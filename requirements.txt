@@ -3,3 +3,4 @@ requests
 pandas
 tzdata
 timedelta
+ZoneInfo

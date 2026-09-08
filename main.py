@@ -1,3 +1,4 @@
+```python
 import streamlit as st
 import requests
 import pandas as pd
@@ -431,3 +432,4 @@ st.caption(
     f"조회 날짜: {target_date} | "
     "데이터 출처: KOBIS 영화관입장권통합전산망"
 )
+```
